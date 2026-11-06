@@ -28,7 +28,7 @@
   I’ve built apps that reduce manual work by up to **70%** and increase efficiency by **40%** — and I love hackathons!
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hardik.mishra.1447) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hardikkk.10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardikmishra0910) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Hardikmishra2004@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hardik.mishra.1447) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hardikkk.10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardik-mishra0910) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Hardikmishra2004@gmail.com) 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hardikmishra0910&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
